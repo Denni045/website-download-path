@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Download Path Changer",
+  "version": "1.0",
+  "description": "Changes the download path for a specific host page",
+  "permissions": ["downloads"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
